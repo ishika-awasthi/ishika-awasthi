@@ -1,5 +1,7 @@
-## Hi there 👋
+##Hi there, I'm Ishika Awasthi 👋
 
+About Me
+I'm Ishika Awasthi, a student of Bachelor Of Technology in Computer Science and Engineering from COER University, Roorkee, Uttarakhand.
 <!--
 **ishika-awasthi/ishika-awasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
