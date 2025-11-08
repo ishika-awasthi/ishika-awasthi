@@ -6,6 +6,6 @@ Hi there! 👋 I’m Ishika Awasthi, a passionate 2nd-year Computer Science stud
 
 💡 Interests: AI, ML, Data Visualization, and Research
 
-📫 Reach me at: awasthiishika06@gmail.com
+📫 Reach me at: awasthiishika661@gmail.com
 
 ⚡ Fun fact: I debug with coffee ☕
